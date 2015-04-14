@@ -1,0 +1,6 @@
+[
+    {
+        "button": "button1", "count": 1, "modifiers": ["alt"],
+        "press_command": "go_to_file_click"
+    }
+]

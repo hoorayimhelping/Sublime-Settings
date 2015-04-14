@@ -1,0 +1,5 @@
+[
+{ "keys": ["super+x"], "command": "noop", "context": [ { "key": "selection_empty", "operator": "equal", "operand": true } ] },
+{ "keys": ["super+c"], "command": "noop", "context": [ { "key": "selection_empty", "operator": "equal", "operand": true } ] },
+{ "keys": ["ctrl+f"], "command": "sublime_etsy_open_remote_url", "args": []}
+]
